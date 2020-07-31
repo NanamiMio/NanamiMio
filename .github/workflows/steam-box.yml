@@ -17,7 +17,7 @@ jobs:
       GIST_ID: 89c2507764f1529a90c0dbc7f48389e5
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
-      UPDATE_OPTION: GIST_AND_MARKDOWN
+      UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
 
     steps:
