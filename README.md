@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎮 Steam playtime leaderboard
 ```text
 🔫 Counter-Strike: Global Offensive  🕘 466 hrs 8 mins
-🎮 SteamVR                           🕘 304 hrs 38 mins
+🎮 SteamVR                           🕘 305 hrs 39 mins
 🔫 Tom Clancy's Rainbow Six Siege    🕘 132 hrs 42 mins
 🚓 Grand Theft Auto V                🕘 102 hrs 3 mins
 🎮 Street Racing Syndicate           🕘 77 hrs 39 mins
