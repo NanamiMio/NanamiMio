@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🔫 Counter-Strike: Global Offensive  🕘 466 hrs 8 mins
-🎮 SteamVR                           🕘 318 hrs 17 mins
-🔫 Tom Clancy's Rainbow Six Siege    🕘 132 hrs 42 mins
-🚓 Grand Theft Auto V                🕘 102 hrs 3 mins
-🎮 Street Racing Syndicate           🕘 77 hrs 39 mins
+🔫 Counter-Strike: Global Offensive 🕘 466 hrs 8 mins
+🎮 SteamVR                          🕘 318 hrs 17 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 132 hrs 42 mins
+🚓 Grand Theft Auto V               🕘 102 hrs 3 mins
+🎮 Street Racing Syndicate          🕘 77 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
