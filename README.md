@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 Apex Legends                     🕘 1558 hrs 24 mins
+🎮 Apex Legends                     🕘 1559 hrs 25 mins
 🔫 Counter-Strike: Global Offensive 🕘 466 hrs 8 mins
 🎮 ShareX                           🕘 375 hrs 15 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 132 hrs 42 mins
