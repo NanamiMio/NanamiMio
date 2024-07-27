@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🔫 Counter-Strike 2                 🕘 466 hrs 8 mins
 🎮 ShareX                           🕘 375 hrs 16 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 132 hrs 42 mins
-🎮 Overwatch® 2                     🕘 126 hrs 47 mins
+🎮 Overwatch® 2                     🕘 127 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
