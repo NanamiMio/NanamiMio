@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 Apex Legends                     🕘 2181 hrs 17 mins
+🎮 Apex Legends                     🕘 2181 hrs 21 mins
 🔫 Counter-Strike 2                 🕘 466 hrs 8 mins
 🎮 ShareX                           🕘 375 hrs 16 mins
-🎮 Overwatch® 2                     🕘 164 hrs 2 mins
+🎮 Overwatch® 2                     🕘 164 hrs 8 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 132 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
