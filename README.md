@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 Apex Legends                     🕘 2187 hrs 27 mins
+🎮 Apex Legends                     🕘 2188 hrs 31 mins
 🔫 Counter-Strike 2                 🕘 466 hrs 8 mins
 🎮 ShareX                           🕘 375 hrs 16 mins
 🎮 Overwatch® 2                     🕘 167 hrs 47 mins
