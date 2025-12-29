@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/NanamiMio/iSearch/commit/af3856920de398d5c9c5661fc04abb2b1fd84904\"><strong>a</strong>f3856920de398d5c9c5661fc04abb2b1fd84904</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/ab45a5058f477bbacf3c5c28cfd04eab42857282\"><strong>ab</strong>45a5058f477bbacf3c5c28cfd04eab42857282</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 27 times)\n2. add (used 10 times)\n3. commit (used 8 times)\n4. initial (used 7 times)\n5. fix (used 7 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/4daeb6ec72c9225c1e323cc5c57b411e85c75377\">4daeb6e</a>: fix sth\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/990beab2ded83fccffe1dcefda1880eca2f7e8a2\">990beab</a>: fix addSite",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/c8843510b4ff67b775224351a7944870e283ca4f\">c884351</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NanamiMio/eShop-Spider/commit/eb37233cbf26cc51e175dbb6f5d1389fd252468c\">eb37233</a>\n- <a href=\"https://github.com/NanamiMio/minimal/commit/ef6a6c5846e149c7822a83723c24839e2e6d2082\">ef6a6c5</a>\n- <a href=\"https://github.com/NanamiMio/minimal/commit/dc2d2bc739789ce3753e80dc365a5ca86b46653f\">dc2d2bc</a>\n- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/3c39d6559943d6b76cd0a587213094c8c91fa16d\">3c39d65</a>\n- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/313399302a6ef00f319a45c1c0214ef839ae9c2b\">3133993</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/f0744500fb5ea14370c338a62bea9b30ed88c03a\">f074450</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
