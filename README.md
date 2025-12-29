@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
