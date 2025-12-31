@@ -68,5 +68,19 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/NanamiMio/eShop-Spider/commit/eb37233cbf26cc51e175dbb6f5d1389fd252468c\">eb37233</a>\n- <a href=\"https://github.com/NanamiMio/minimal/commit/ef6a6c5846e149c7822a83723c24839e2e6d2082\">ef6a6c5</a>\n- <a href=\"https://github.com/NanamiMio/minimal/commit/dc2d2bc739789ce3753e80dc365a5ca86b46653f\">dc2d2bc</a>\n- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/3c39d6559943d6b76cd0a587213094c8c91fa16d\">3c39d65</a>\n- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/313399302a6ef00f319a45c1c0214ef839ae9c2b\">3133993</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/f0744500fb5ea14370c338a62bea9b30ed88c03a\">f074450</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/1c2451746eba56de2fe2be60f58e51654951f30f\">1c24517</a>\n- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/c890eeb310e16f4fd1cdd12ed0e040d177a8eba0\">c890eeb</a>\n- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/c4b4dfe766034a6e26323afcea959ef5b1615196\">c4b4dfe</a>\n- <a href=\"https://github.com/NanamiMio/Steam-Key-Tool/commit/208b66b4fb24b32498ec759ae3851e242ed8641e\">208b66b</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/92bd149cc8581159f6762012181cb5047f07c742\">92bd149</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/4daeb6ec72c9225c1e323cc5c57b411e85c75377\">4daeb6e</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/990beab2ded83fccffe1dcefda1880eca2f7e8a2\">990beab</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/62be1f9e7c173f1b2735aaad4ad51eeafe360e7f\">62be1f9</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
