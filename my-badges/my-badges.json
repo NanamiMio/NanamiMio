@@ -82,5 +82,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/92bd149cc8581159f6762012181cb5047f07c742\">92bd149</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/4daeb6ec72c9225c1e323cc5c57b411e85c75377\">4daeb6e</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/990beab2ded83fccffe1dcefda1880eca2f7e8a2\">990beab</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/62be1f9e7c173f1b2735aaad4ad51eeafe360e7f\">62be1f9</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/2d5bff356ab5726fbd221f0653212b4578745faf\">2d5bff3</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/31586c0824119aa3f637c57f34c694836eaa3cfd\">31586c0</a>\n- <a href=\"https://github.com/NanamiMio/iSearch/commit/20cf79a0db7c6584bb497dbe50a4f935f7fd2c66\">20cf79a</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
